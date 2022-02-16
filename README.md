@@ -6,6 +6,7 @@ Grupo 64: La gramática es recursiva descendente y los tokens lo tienes en el pd
 - El autómata y la tabla LL también están incluidos en los recursos del proyecto.
 - También contiene los First and Follows que se usan.
 - COntiene también Las pruebas para el día del examen, tanto pruebas correctas como incorrectas.
+- El pdf contiene toda la documentación que se ha desarrollado en el proyecto.
 
 Recuerda que este proyecto solo existe como apoyo, no lo uses de mala manera, ya que han llevado varias horas de esfuerzo y dedicación, es una práctica tediosa, y se necesitan varias muchas horas para llegar a entenderla completamente, así que ten en cuenta estas cosas.
 En cuanto a la interfaz gráfica, el único objetivo es que te ayude el día del examen. 
