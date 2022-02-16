@@ -10,5 +10,5 @@ Grupo 64: La gramática es recursiva descendente y los tokens lo tienes en el pd
 Recuerda que este proyecto solo existe como apoyo, no lo uses de mala manera, ya que han llevado varias horas de esfuerzo y dedicación, es una práctica tediosa, y se necesitan varias muchas horas para llegar a entenderla completamente, así que ten en cuenta estas cosas.
 En cuanto a la interfaz gráfica, el único objetivo es que te ayude el día del examen. 
 
-** Si quiere ejecutar dicha práctica solo necesitas ejecutar el .Jar que contiene proyecto **
+**Si quiere ejecutar dicha práctica solo necesitas ejecutar el .Jar que contiene proyecto**
  
