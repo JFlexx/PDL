@@ -1,0 +1,100 @@
+<let,>
+<number,>
+<ID,1>
+<PuntoComa, >
+<let,>
+<boolean,>
+<ID,2>
+<PuntoComa, >
+<let,>
+<string,>
+<ID,3>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,4>
+<PuntoComa, >
+<let,>
+<boolean,>
+<ID,5>
+<PuntoComa, >
+<input,>
+<ap, >
+<ID,6>
+<cp, >
+<PuntoComa, >
+<ID,7>
+<igual,>
+<ID,8>
+<PuntoComa, >
+<if,>
+<ap, >
+<negacion,>
+<ID,9>
+<cp, >
+<ID,10>
+<igual,>
+<Cadena,"hello">
+<PuntoComa, >
+<ID,11>
+<Divigual, >
+<ID,12>
+<suma, >
+<Entero,378>
+<PuntoComa, >
+<alert,>
+<ap, >
+<Entero,33>
+<suma, >
+<ID,13>
+<suma, >
+<ID,14>
+<cp, >
+<PuntoComa, >
+<function,>
+<boolean,>
+<ID,15>
+<ap, >
+<boolean,>
+<ID,16>
+<cp, >
+<al, >
+<ID,17>
+<igual,>
+<negacion,>
+<ID,18>
+<PuntoComa, >
+<if,>
+<ap, >
+<ID,19>
+<cp, >
+<ID,20>
+<igual,>
+<ID,21>
+<ap, >
+<ID,22>
+<cp, >
+<PuntoComa, >
+<ID,23>
+<igual,>
+<Entero,88>
+<PuntoComa, >
+<return,>
+<ap, >
+<ID,24>
+<cp, >
+<PuntoComa, >
+<cl, >
+<if,>
+<ap, >
+<ID,25>
+<ap, >
+<ID,26>
+<cp, >
+<cp, >
+<alert,>
+<ap, >
+<ID,27>
+<cp, >
+<PuntoComa, >
+<EOF, >

@@ -1,0 +1,131 @@
+<let,>
+<string,>
+<ID,1>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,2>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,3>
+<PuntoComa, >
+<function,>
+<number,>
+<ID,4>
+<ap, >
+<number,>
+<ID,5>
+<cp, >
+<al, >
+<if,>
+<ap, >
+<ID,6>
+<distinto,>
+<Entero,0>
+<cp, >
+<return,>
+<Entero,1>
+<PuntoComa, >
+<return,>
+<ID,7>
+<suma, >
+<ID,8>
+<ap, >
+<ID,9>
+<suma, >
+<Entero,1>
+<cp, >
+<PuntoComa, >
+<cl, >
+<let,>
+<number,>
+<ID,10>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,11>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,12>
+<PuntoComa, >
+<function,>
+<string,>
+<ID,13>
+<ap, >
+<boolean,>
+<ID,14>
+<cp, >
+<al, >
+<while,>
+<ap, >
+<negacion,>
+<ID,15>
+<cp, >
+<al, >
+<ID,16>
+<ap, >
+<ID,17>
+<Coma, >
+<Cadena,"hola">
+<Coma, >
+<Entero,33>
+<cp, >
+<PuntoComa, >
+<if,>
+<ap, >
+<ID,18>
+<distinto,>
+<ID,19>
+<cp, >
+<return,>
+<ID,20>
+<PuntoComa, >
+<cl, >
+<return,>
+<ID,21>
+<PuntoComa, >
+<cl, >
+<ID,22>
+<igual,>
+<Cadena,"El factorial ">
+<PuntoComa, >
+<alert,>
+<ap, >
+<ID,23>
+<cp, >
+<PuntoComa, >
+<alert,>
+<ap, >
+<Cadena,"Introduce un numero.">
+<cp, >
+<PuntoComa, >
+<input,>
+<ap, >
+<ID,24>
+<cp, >
+<PuntoComa, >
+<let,>
+<boolean,>
+<ID,25>
+<PuntoComa, >
+<if,>
+<ap, >
+<ID,26>
+<distinto,>
+<Entero,0>
+<cp, >
+<alert,>
+<ap, >
+<Cadena,"No existe el factorial de un negativo.">
+<cp, >
+<PuntoComa, >
+<ID,27>
+<igual,>
+<ID,28>
+<ap, >
+<ID,29>
+<cp, >
+<PuntoComa, >
+<EOF, >

@@ -1,0 +1,41 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 'n1'
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'l1'
+	+ Tipo: 'Bool'
+	+ Despl: '1'
+
+  * LEXEMA: 'cad'
+	+ Tipo: 'string'
+	+ Despl: '2'
+
+  * LEXEMA: 'n2'
+	+ Tipo: 'Entero'
+	+ Despl: '66'
+
+  * LEXEMA: 'l2'
+	+ Tipo: 'Bool'
+	+ Despl: '67'
+
+  * LEXEMA: 'varglobal'
+	+ Tipo: 'Entero'
+	+ Despl: '68'
+
+  * LEXEMA: 'ff'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Bool'
+	+ NumParam: '1'
+	+ TipoParam01:'Bool'
+	+ EtiqFuncion: 'Etff01'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion ff #2 :
+
+  * LEXEMA: 'ss' (parametro de funcion)
+	+ Tipo: 'Bool'
+	+ Despl: '0'
+
+-----------------------------------------------------------------------

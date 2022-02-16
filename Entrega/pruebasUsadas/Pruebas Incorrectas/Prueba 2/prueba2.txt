@@ -1,0 +1,6 @@
+let number c;
+let string a; 
+c = 1;
+for (c; c!=10; c++){
+	a= “fin”;
+}

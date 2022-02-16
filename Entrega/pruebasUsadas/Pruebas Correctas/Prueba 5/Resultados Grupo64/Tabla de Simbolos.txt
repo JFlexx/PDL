@@ -1,0 +1,69 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 'x'
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'xx'
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+  * LEXEMA: 'ss'
+	+ Tipo: 'string'
+	+ Despl: '2'
+
+  * LEXEMA: 'boolean_1'
+	+ Tipo: 'Bool'
+	+ Despl: '66'
+
+  * LEXEMA: 'boolean_2'
+	+ Tipo: 'Bool'
+	+ Despl: '67'
+
+  * LEXEMA: 'y'
+	+ Tipo: 'Entero'
+	+ Despl: '68'
+
+  * LEXEMA: 'f1'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Entero'
+	+ NumParam: '2'
+	+ TipoParam01:'Entero'
+	+ TipoParam02:'Bool'
+	+ EtiqFuncion: 'Etf101'
+
+  * LEXEMA: 'f2'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Bool'
+	+ NumParam: '2'
+	+ TipoParam01:'Entero'
+	+ TipoParam02:'Bool'
+	+ EtiqFuncion: 'Etf202'
+
+  * LEXEMA: 'z'
+	+ Tipo: 'Entero'
+	+ Despl: '69'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion f1 #2 :
+
+  * LEXEMA: 'f1' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'b1' (parametro de funcion)
+	+ Tipo: 'Bool'
+	+ Despl: '1'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion f2 #3 :
+
+  * LEXEMA: 'f2' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'b1' (parametro de funcion)
+	+ Tipo: 'Bool'
+	+ Despl: '1'
+
+-----------------------------------------------------------------------

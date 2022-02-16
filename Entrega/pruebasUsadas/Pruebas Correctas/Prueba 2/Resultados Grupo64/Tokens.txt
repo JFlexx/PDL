@@ -1,0 +1,72 @@
+<let,>
+<number,>
+<ID,1>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,2>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,3>
+<PuntoComa, >
+<alert,>
+<ap, >
+<Cadena,"Introduce el primer operando">
+<cp, >
+<PuntoComa, >
+<input,>
+<ap, >
+<ID,4>
+<cp, >
+<PuntoComa, >
+<alert,>
+<ap, >
+<Cadena,"Introduce el segundo operando">
+<cp, >
+<PuntoComa, >
+<input,>
+<ap, >
+<ID,5>
+<cp, >
+<PuntoComa, >
+<function,>
+<number,>
+<ID,6>
+<ap, >
+<number,>
+<ID,7>
+<Coma, >
+<number,>
+<ID,8>
+<cp, >
+<al, >
+<let,>
+<number,>
+<ID,9>
+<PuntoComa, >
+<ID,10>
+<igual,>
+<ID,11>
+<suma, >
+<ID,12>
+<PuntoComa, >
+<return,>
+<ID,13>
+<PuntoComa, >
+<cl, >
+<ID,14>
+<igual,>
+<Entero,0>
+<PuntoComa, >
+<alert,>
+<ap, >
+<ID,15>
+<ap, >
+<ID,16>
+<Coma, >
+<ID,17>
+<cp, >
+<cp, >
+<PuntoComa, >
+<EOF, >

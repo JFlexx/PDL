@@ -1,0 +1,15 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 'c'
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'a'
+	+ Tipo: 'string'
+	+ Despl: '1'
+
+  * LEXEMA: 'for'
+	+ Tipo: 'Entero'
+	+ Despl: '65'
+
+-----------------------------------------------------------------------

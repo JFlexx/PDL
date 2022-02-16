@@ -1,0 +1,2 @@
+
+->Error(Linea 1)Analizador sintactico: Se esperaba ')' y se ha recibido la expresion PuntoComa

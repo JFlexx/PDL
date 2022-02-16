@@ -1,0 +1,139 @@
+<let,>
+<boolean,>
+<ID,1>
+<PuntoComa, >
+<function,>
+<boolean,>
+<ID,2>
+<ap, >
+<number,>
+<ID,3>
+<cp, >
+<al, >
+<let,>
+<number,>
+<ID,4>
+<PuntoComa, >
+<alert,>
+<ap, >
+<Cadena,"Es bisiesto?">
+<cp, >
+<PuntoComa, >
+<input,>
+<ap, >
+<ID,5>
+<cp, >
+<PuntoComa, >
+<return,>
+<ap, >
+<ID,6>
+<suma, >
+<Entero,4>
+<distinto,>
+<Entero,0>
+<cp, >
+<PuntoComa, >
+<cl, >
+<function,>
+<number,>
+<ID,7>
+<ap, >
+<number,>
+<ID,8>
+<Coma, >
+<number,>
+<ID,9>
+<cp, >
+<al, >
+<let,>
+<number,>
+<ID,10>
+<PuntoComa, >
+<alert,>
+<ap, >
+<Cadena,"di cuantos dias tiene el mes ">
+<cp, >
+<PuntoComa, >
+<alert,>
+<ap, >
+<ID,11>
+<cp, >
+<PuntoComa, >
+<input,>
+<ap, >
+<ID,12>
+<cp, >
+<PuntoComa, >
+<if,>
+<ap, >
+<ID,13>
+<ap, >
+<ID,14>
+<cp, >
+<cp, >
+<ID,15>
+<igual,>
+<ID,16>
+<suma, >
+<Entero,1>
+<PuntoComa, >
+<return,>
+<ID,17>
+<PuntoComa, >
+<cl, >
+<function,>
+<boolean,>
+<ID,18>
+<ap, >
+<number,>
+<ID,19>
+<Coma, >
+<number,>
+<ID,20>
+<Coma, >
+<number,>
+<ID,21>
+<cp, >
+<al, >
+<return,>
+<ID,22>
+<distinto,>
+<ID,23>
+<ap, >
+<ID,24>
+<Coma, >
+<ID,25>
+<cp, >
+<PuntoComa, >
+<cl, >
+<function,>
+<ID,26>
+<ap, >
+<cp, >
+<al, >
+<if,>
+<ap, >
+<ID,27>
+<ap, >
+<Entero,20>
+<Coma, >
+<Entero,10>
+<Coma, >
+<Entero,2020>
+<cp, >
+<cp, >
+<alert,>
+<ap, >
+<Cadena,"ok">
+<cp, >
+<PuntoComa, >
+<cl, >
+<let,>
+<number,>
+<ID,28>
+<PuntoComa, >
+<ID,29>
+<ap, >
+<cp, >
+<PuntoComa, >
+<EOF, >

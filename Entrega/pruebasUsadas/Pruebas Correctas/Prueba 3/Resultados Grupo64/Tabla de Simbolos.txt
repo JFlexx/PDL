@@ -1,0 +1,85 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 'booleano'
+	+ Tipo: 'Bool'
+	+ Despl: '0'
+
+  * LEXEMA: 'bisiesto'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Bool'
+	+ NumParam: '1'
+	+ TipoParam01:'Entero'
+	+ EtiqFuncion: 'Etbisiesto01'
+
+  * LEXEMA: 'dias'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Entero'
+	+ NumParam: '2'
+	+ TipoParam01:'Entero'
+	+ TipoParam02:'Entero'
+	+ EtiqFuncion: 'Etdias02'
+
+  * LEXEMA: 'esFechaCorrecta'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Bool'
+	+ NumParam: '3'
+	+ TipoParam01:'Entero'
+	+ TipoParam02:'Entero'
+	+ TipoParam03:'Entero'
+	+ EtiqFuncion: 'EtesFechaCorrecta03'
+
+  * LEXEMA: 'demo'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Void'
+	+ NumParam: '0'
+	+ EtiqFuncion: 'Etdemo04'
+
+  * LEXEMA: 'abc'
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion bisiesto #2 :
+
+  * LEXEMA: 'a' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'bis'
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion dias #3 :
+
+  * LEXEMA: 'm' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'a' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+  * LEXEMA: 'dd'
+	+ Tipo: 'Entero'
+	+ Despl: '2'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion esFechaCorrecta #4 :
+
+  * LEXEMA: 'd' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'm' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+  * LEXEMA: 'a' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '2'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion demo #5 :
+
+-----------------------------------------------------------------------

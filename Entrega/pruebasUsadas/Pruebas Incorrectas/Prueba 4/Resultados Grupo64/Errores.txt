@@ -1,0 +1,1 @@
+->Error(Linea 3)Analizador sintactico: Se esperaba ';' y se ha recibido la expresion ID

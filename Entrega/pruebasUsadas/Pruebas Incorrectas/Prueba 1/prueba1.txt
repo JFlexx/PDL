@@ -1,0 +1,6 @@
+let number a;
+let number b;
+let number int;
+a = 99999;
+b = 99992;
+c = 123;

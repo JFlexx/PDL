@@ -1,0 +1,23 @@
+let string s;	
+let number uno;
+let number UNO;
+function number Factorial (number n)	
+{
+	if (n != 0)	return 1;
+	return n + Factorial (n + 1);	
+}
+let number For;
+let number functional;
+let number While;	
+
+
+function string cadena (boolean log)
+{
+	while (!log)
+	{
+		print (s, "hola", 33);
+		if (uno != UNO)	return s;
+	}
+
+}	
+

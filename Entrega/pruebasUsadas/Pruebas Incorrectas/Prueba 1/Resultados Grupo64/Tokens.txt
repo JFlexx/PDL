@@ -1,0 +1,23 @@
+<let,>
+<number,>
+<ID,1>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,2>
+<PuntoComa, >
+<let,>
+<number,>
+<ID,3>
+<PuntoComa, >
+<ID,4>
+<igual,>
+<PuntoComa, >
+<ID,5>
+<igual,>
+<PuntoComa, >
+<ID,6>
+<igual,>
+<Entero,123>
+<PuntoComa, >
+<EOF, >

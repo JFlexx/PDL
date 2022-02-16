@@ -1,0 +1,8 @@
+let number numero;
+numero = 89999; 
+<;
+let number numero;
+function number f(number a, number b){/*funcion sin tipo*/
+	a = 33 /*falta ;*/
+return a
+}

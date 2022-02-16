@@ -1,0 +1,11 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 'a'
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'b'
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+-----------------------------------------------------------------------

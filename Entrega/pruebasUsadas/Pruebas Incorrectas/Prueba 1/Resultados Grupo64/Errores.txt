@@ -1,0 +1,2 @@
+->Error(Linea 4)Analizador lexico: El numero 99999 sobrepasa el valor permitido
+->Error(Linea 5)Analizador lexico: El numero 99992 sobrepasa el valor permitido

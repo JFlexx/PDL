@@ -1,0 +1,1 @@
+->Error(Linea 1)Analizador semantico(Línea 1): No devuelve nada la Funcion cadena

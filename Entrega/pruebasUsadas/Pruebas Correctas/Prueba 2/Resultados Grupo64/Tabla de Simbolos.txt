@@ -1,0 +1,38 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 'a'
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'b'
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+  * LEXEMA: 'int'
+	+ Tipo: 'Entero'
+	+ Despl: '2'
+
+  * LEXEMA: 'operacion'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Entero'
+	+ NumParam: '2'
+	+ TipoParam01:'Entero'
+	+ TipoParam02:'Entero'
+	+ EtiqFuncion: 'Etoperacion01'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion operacion #2 :
+
+  * LEXEMA: 'num1' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+  * LEXEMA: 'num2' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '1'
+
+  * LEXEMA: 'res'
+	+ Tipo: 'Entero'
+	+ Despl: '2'
+
+-----------------------------------------------------------------------

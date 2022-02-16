@@ -1,0 +1,59 @@
+TABLA GLOBAL #1 :
+
+  * LEXEMA: 's'
+	+ Tipo: 'string'
+	+ Despl: '0'
+
+  * LEXEMA: 'uno'
+	+ Tipo: 'Entero'
+	+ Despl: '64'
+
+  * LEXEMA: 'UNO'
+	+ Tipo: 'Entero'
+	+ Despl: '65'
+
+  * LEXEMA: 'Factorial'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'Entero'
+	+ NumParam: '1'
+	+ TipoParam01:'Entero'
+	+ EtiqFuncion: 'EtFactorial01'
+
+  * LEXEMA: 'For'
+	+ Tipo: 'Entero'
+	+ Despl: '66'
+
+  * LEXEMA: 'functional'
+	+ Tipo: 'Entero'
+	+ Despl: '67'
+
+  * LEXEMA: 'While'
+	+ Tipo: 'Entero'
+	+ Despl: '68'
+
+  * LEXEMA: 'print'
+	+ Tipo: 'Entero'
+	+ Despl: '69'
+
+  * LEXEMA: 'cadena'
+	+ Tipo:	'Funcion'
+	+ TipoRetorno: 'string'
+	+ NumParam: '1'
+	+ TipoParam01:'Bool'
+	+ EtiqFuncion: 'Etcadena02'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion Factorial #2 :
+
+  * LEXEMA: 'n' (parametro de funcion)
+	+ Tipo: 'Entero'
+	+ Despl: '0'
+
+-----------------------------------------------------------------------
+TABLA DE LA Funcion cadena #3 :
+
+  * LEXEMA: 'log' (parametro de funcion)
+	+ Tipo: 'Bool'
+	+ Despl: '0'
+
+-----------------------------------------------------------------------
