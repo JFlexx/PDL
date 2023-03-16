@@ -1,3 +1,4 @@
+EL proyecto se trata de crear un analizador sencilo en javascript.
 
 - El autómata y la tabla LL también están incluidos en los recursos del proyecto.
 - También contiene los First and Follows que se usan.
